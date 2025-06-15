@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317504441577",
+    "project_id": "ihsan-tech-18a27",
+    "storage_bucket": "ihsan-tech-18a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317504441577:android:38ed95746968e52c027478",
+        "android_client_info": {
+          "package_name": "com.ihsantech.ihsantech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoqzXumcZG_QPxlNQoPK2wqPzYNn85jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
