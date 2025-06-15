@@ -14,7 +14,7 @@ class ChatbootScreen extends StatefulWidget {
 class _ChatbootScreenState extends State<ChatbootScreen> {
   final TextEditingController promptController = TextEditingController();
   final ScrollController _scrollController = ScrollController();
-  static const apiKey = "AIzaSyCkc3_voGonwMScc6yKir3yrXIK9Sc-Xpc";
+  static const apiKey = "put here you gemini key";
 
   final List<ModelMessage> prompt = [];
 
