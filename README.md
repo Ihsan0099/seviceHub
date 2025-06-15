@@ -125,5 +125,5 @@ Department of Software Engineering, University of Malakand
 
 If you have any questions, feel free to contact us:
 
-- Ihsan Ullah: [GitHub Profile](https://github.com/ihsantech)
-- Atta Ullah: [GitHub Profile](#)
+- Ihsan Ullah: [GitHub Profile](https://github.com/Ihsan0099)
+- Atta Ullah: [GitHub Profile](https://github.com/attaullahmk)
