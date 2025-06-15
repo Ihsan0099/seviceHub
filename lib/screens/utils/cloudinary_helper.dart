@@ -3,11 +3,11 @@ import 'dart:io';
 import 'package:http/http.dart' as http;
 
 class CloudinaryHelper {
-  static const String cloudName = 'ddpz21lvd'; // Your cloud name
+  static const String cloudName = 'here put cloud name '; // Your cloud name
   static const String uploadPreset = 'ml_default'; // Make sure this is created in your Cloudinary dashboard
 
   static Future<String?> uploadImage(File imageFile) async {
-    final uri = Uri.parse("https://api.cloudinary.com/v1_1/$cloudName/image/upload");
+    final uri = Uri.parse("put here cloudnary api key ");
 
     final request = http.MultipartRequest("POST", uri)
       ..fields['upload_preset'] = uploadPreset
